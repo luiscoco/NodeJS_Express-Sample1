@@ -1,4 +1,6 @@
-let express = require('express');
+//let express = require('express');
+import express from 'express';
+
 let app = express();
 
 app.get("/notes", function(req,res) {
