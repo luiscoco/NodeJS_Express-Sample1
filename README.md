@@ -18,7 +18,12 @@ or
 npm i express
 ```
 
-## 
+## How to run the application
+To run the application run the command:
+
+```
+node task1.js
+```
 
 
 
